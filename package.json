@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "language-nasal:toggle"
   },
-  "repository": "https://github.com/atom/language-nasal",
+  "repository": "https://github.com/www2000/atom-language-nasal",
   "license": "GPLv2",
   "engines": {
     "atom": ">0.50.0"
