@@ -1,7 +1,7 @@
 {
   "name": "language-nasal",
   "main": "./lib/language-nasal",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Atom language support for Nasal",
   "activationCommands": {
     "atom-workspace": "language-nasal:toggle"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
